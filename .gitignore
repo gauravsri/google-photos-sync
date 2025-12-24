@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Logs
+logs/
+*.log
+
+# Mac
+.DS_Store
+
+# Test Data
+test_takeout/
+test_output/
+test_output_logged/
+FixedPhotos/
+
+# Editor
+.vscode/
+.idea/
